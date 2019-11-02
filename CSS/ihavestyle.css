@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Mono&display=swap');
+
+* {
+	width: 800px;
+	text-align : center;
+	margin: auto;
+}
+
+#contact {
+	text-align: left;
+}
+
+.lettertypeK {
+	font-size: 14px
+}
+
+.lettertypeM {
+		font-size: 110%
+}
+
+#image {
+		width: 100px;
+}
+
+body {
+	background-color : #ebfafa;	
+}
+
+header { 
+	color : #2eb8b8;
+	font-family: 'Roboto Mono', monospace;
+}	
+
+h1 {
+	color : #207979;
+	font-family: 'Roboto Mono', monospace;
+}
+
+h2 {
+	color : #207979;
+	font-family: 'Roboto Mono', monospace;
+}
+
+h3 {
+	color : #207979;
+	font-family: 'Roboto Mono', monospace;
+}
+
+h4 {
+	color : #207979;
+	font-family: 'Roboto Mono', monospace;
+}
+			
+p {
+	color : #103d3d;
+	font-family: 'Roboto Mono', monospace;
+}
+ 
+ table {
+	color: #103d3d;
+	font-family: 'Roboto Mono', monospace;
+ }
+ 
+ table header {
+	font-style: italic;
+ }
+ 
+ table data {
+	font-style : bold;
+ }
+ 
+ form {
+	 color: #103d3d;
+	 font-family: 'Roboto Mono', monospace;
+ }
